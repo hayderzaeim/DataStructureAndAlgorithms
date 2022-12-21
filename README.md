@@ -18,5 +18,4 @@ We will discus code complexity in Different algorithms like Sorting algorithms (
 
   - <h3>Dynamic data structure:</h3> In dynamic data structure, the size is not fixed. It can be randomly updated during the runtime which may be considered efficient concerning the memory (space) complexity of the code. Examples of this data structure are queue, stack, etc.
 
-- <h2>Non-linear data structure:</h2> Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. Examples of non-linear data structures are trees and graphs.
-
+- <h2>Non-linear data structure:</h2> Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. Examples of non-linear data structures are trees and graphs..
